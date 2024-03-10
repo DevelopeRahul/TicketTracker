@@ -45,7 +45,7 @@ const Body = () => {
     return (
         <div className='container'>
             <br />
-            <h1 className='text-center'>List of Tickets</h1>
+            <h1 className='text-center'>List of Tickets and status</h1>
             <br />
 
             <Link id='add-btn' className='btn btn-primary' to={'/add'}>
